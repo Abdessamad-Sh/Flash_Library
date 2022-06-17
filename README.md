@@ -20,7 +20,15 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![signupPHP](https://user-images.githubusercontent.com/78956474/174309395-096fab80-4f1d-4013-821b-4192ef434f24.PNG)
+![loginphp](https://user-images.githubusercontent.com/78956474/174310530-4336a143-99b7-4fec-ae64-862d10f9a572.PNG)
+![featuredbooksINDEX](https://user-images.githubusercontent.com/78956474/174309286-85521fd8-eacc-499b-b491-55e8a18f98b9.PNG)
+![MENU](https://user-images.githubusercontent.com/78956474/174309265-3b679ac1-3ee4-478e-ae45-a4a86ed2c98d.PNG)
+![books](https://user-images.githubusercontent.com/78956474/174309126-9695d4e9-9ac7-4875-b152-42f14b5ee460.PNG)
+![addbook](https://user-images.githubusercontent.com/78956474/174309064-df8e1eaf-9b71-4644-9ac4-eb81acecce68.PNG)
+![contactinfoINDEX_FOOTER](https://user-images.githubusercontent.com/78956474/174309280-d5c4a7e9-701b-455e-ad39-9e5363503803.PNG)
+![footer2](https://user-images.githubusercontent.com/78956474/174309113-d7f1bbe6-bea7-4b30-ac1a-e8121cdc2f47.PNG)
+
 
 ## Usage/Examples
 
